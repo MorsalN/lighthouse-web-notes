@@ -1,4 +1,4 @@
-#Morsal's Notes
-#This is an H1 header (largest)
-###### This is an H6 header (smallest)
-#### This is H4 
+# Morsal's Notes
+## Summary
+
+This repository contains all of the notes taken by [Morsal](https://github.com/MorsalN) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
